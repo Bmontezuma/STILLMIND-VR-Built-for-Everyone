@@ -8,7 +8,7 @@ Built in Unity 6, this project is grounded in one mission:
 > 💚 *No one in crisis should be met with a paywall. No one should feel alone when they’re at their lowest. Everyone deserves a place to feel safe, to breathe, and to heal.*
 
 ---
-
+![Image](https://www.stpatricks.ie/media/2656/panic-attack-fb.jpg)
 ## 🧠 What Is StillMind?
 
 StillMind VR is a deeply personal, non-commercial mental health experience. It’s not a game. It’s not just an app. It’s a lifeline.
