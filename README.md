@@ -1,4 +1,4 @@
-![Image](https://www.ross-shirejournal.co.uk/_media/img/P14T0UKQIHK1KP1XKQFX.jpg)
+[Image](https://www.ross-shirejournal.co.uk/_media/img/P14T0UKQIHK1KP1XKQFX.jpg)
 # 🌿 StillMind VR
 
 **StillMind VR** is a free, donation-supported VR sanctuary designed to provide *instant relief* for people experiencing overwhelming emotional distress — including panic attacks, PTSD episodes, anxiety, grief, and self-harm thoughts.
