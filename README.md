@@ -18,7 +18,7 @@ Whether you're a veteran struggling with PTSD, a teen overwhelmed by bullying, o
 > “You’re safe now. Let’s breathe.”
 
 ---
-
+![Image](https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/health/wp-content/uploads/2021/08/PanicAttack.jpeg.jpg)
 ## 🔥 Core Features (WIP)
 
 - **"Panic Now" Speed Relief Button**  
