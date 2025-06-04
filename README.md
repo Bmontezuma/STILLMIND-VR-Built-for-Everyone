@@ -52,6 +52,7 @@ This project is being developed with input from mental health professionals to e
 ---
 
 ## 🚀 Built With
+![Image](https://clipground.com/images/unity-3d-logo-4.jpg)
 
 - [Unity 6](https://unity.com/)
 - XR Interaction Toolkit (Meta Quest 3 support)
