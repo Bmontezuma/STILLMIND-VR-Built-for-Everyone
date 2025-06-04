@@ -39,6 +39,7 @@ Whether you're a veteran struggling with PTSD, a teen overwhelmed by bullying, o
 ---
 
 ## ❤️ Why It Exists
+![Image](https://www.ostomylifestyle.org/wp-content/uploads/2022/08/ad1.jpeg)
 
 > “I don’t want to make money from people who are in pain.  
 > I want to help them. That’s it.”  
